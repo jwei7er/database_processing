@@ -1,5 +1,5 @@
-001	Air Force
-002	Akron
+001 Air Force
+002 Akron
 003	Alabama
 004	Arizona
 005	Arizona State
