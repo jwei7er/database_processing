@@ -1,0 +1,249 @@
+001	Air Force
+002	Akron
+003	Alabama
+004	Arizona
+005	Arizona State
+006	Arkansas
+007	Arkansas State
+008	Army
+009	Auburn
+010	Ball State
+011	Baylor
+012	Boise State
+013	Boston College
+014	Bowling Green
+015	Buffalo
+016	BYU
+017	California
+018	Central Michigan
+019	Cincinnati
+020	Clemson
+021	Colorado
+022	Colorado State
+023	Connecticut
+024	Duke
+025	East Carolina
+026	Eastern Michigan
+027	FIU
+028	Florida
+029	Florida Atlantic
+030	Florida State
+031	Fresno State
+032	Georgia
+033	Georgia State
+034	Georgia Tech
+035	Hawaii
+036	Houston
+037	Idaho
+038	Illinois
+039	Indiana
+040	Iowa
+041	Iowa State
+042	Kansas
+043	Kansas State
+044	Kent State
+045	Kentucky
+046	Louisiana Tech
+047	Louisiana-Lafayette
+048	Louisiana-Monroe
+049	Louisville
+050	LSU
+051	Marshall
+052	Maryland
+053	Memphis
+054	MiamiFL
+055	MiamiOH
+056	Michigan
+057	Michigan State
+058	Middle Tennessee
+059	Minnesota
+060	Mississippi State
+061	Missouri
+062	Navy
+063	NC State
+064	Nebraska
+065	Nevada
+066	New Mexico
+067	New Mexico State
+068	North Carolina
+069	North Texas
+070	Northern Illinois
+071	Northwestern
+072	Notre Dame
+073	Ohio
+074	Ohio State
+075	Oklahoma
+076	Oklahoma State
+077	Ole Miss
+078	Oregon
+079	Oregon State
+080	Penn State
+081	Pittsburgh
+082	Purdue
+083	Rice
+084	Rutgers
+085	San Diego State
+086	San Jose State
+087	SMU
+088	South Alabama
+089	South Carolina
+090	South Florida
+091	Southern Miss
+092	Stanford
+093	Syracuse
+094	TCU
+095	Temple
+096	Tennessee
+097	Texas
+098	Texas A&M
+099	Texas State
+100	Texas Tech
+101	Toledo
+102	Troy
+103	Tulane
+104	Tulsa
+105	UAB
+106	UCF
+107	UCLA
+108	Umass
+109	UNLV
+110	USC
+111	Utah State
+112	Utah
+113	UTEP
+114	UTSA
+115	Vanderbilt
+116	Virginia
+117	Virginia Tech
+118	Wake Forest
+119	Washington
+120	Washington State
+121	West Virginia
+122	Western Michigan
+123	Wisconsin
+124	WKU
+125	Wyoming
+126 Old Dominion
+127	Alabama A&M
+128	Alabama State
+129	Albany
+130	Alcorn State
+131	Appalachian State
+132	Arkansas-Pine Bluff
+133	Austin Peay
+134	Bethune-Cookman
+135	Brown
+136	Bryant
+137	Bucknell
+138	Butler
+139	Cal Poly
+140	Campbell
+141	Central Arkansas
+142	Central Connecticut State
+143	Charleston Southern
+144	Chattanooga
+145	The Citadel
+146	Coastal Carolina
+147	Colgate
+148	Columbia
+149	Cornell
+150	Dartmouth
+151	Davidson
+152	Dayton
+153	Delaware
+154	Delaware State
+155	Drake
+156	Duquesne
+157	Eastern Illinois
+158	Eastern Kentucky
+159	Eastern Washington
+160	Elon
+161	Florida A&M
+162	Fordham
+163	Furman
+164	Gardner-Webb
+165	Georgetown
+166	Georgia Southern
+167	Grambling State
+168	Hampton
+169	Harvard
+170	Holy Cross
+171	Howard
+172	Idaho State
+173	Illinois State
+174	Indiana State
+175	Jackson State
+176	Jacksonville
+177	Jacksonville State
+178	James Madison
+179	Lafayette
+180	Lamar
+181	Lehigh
+182	Liberty
+183	Maine
+184	Marist
+185	McNeese State
+186	Mercer
+187	Mississippi Valley State
+188	Missouri State
+189	Monmouth
+190	Montana
+191	Montana State
+192	Morehead State
+193	Morgan State
+194	Murray State
+195	New Hampshire
+196	Nicholls State
+197	Norfolk State
+198	North Carolina A&T
+199	North Carolina Central
+200	North Dakota
+201	North Dakota State
+202	Northern Arizona
+203	Northern Colorado
+204	Northern Iowa
+205	Northwestern State
+206	Pennsylvania
+207	Portland State
+208	Prairie View A&M
+209	Presbyterian
+210	Princeton
+211	Rhode Island
+212	Richmond
+213	Robert Morris
+214	Sacramento State
+215	Sacred Heart
+216	Saint Francis
+217	Sam Houston State
+218	Samford
+219	San Diego
+220	Savannah State
+221	South Carolina State
+222	South Dakota
+223	South Dakota State
+224	Southeast Missouri State
+225	Southeastern Louisiana
+226	Southern
+227	Southern Illinois
+228	Southern Utah
+229	Stephen F. Austin
+230	Stetson
+231	Stony Brook
+232	Tennessee State
+233	Tennessee Tech
+234	Texas Southern
+235	Towson
+236	UC Davis
+237	UT Martin
+238	Valparaiso
+239	Villanova
+240	VMI
+241	Wagner
+242	Weber State
+243	Western Carolina
+244	Western Illinois
+245	William & Mary
+246	Wofford
+247	Yale
+248	Youngstown State
+249 Abilene Christian
